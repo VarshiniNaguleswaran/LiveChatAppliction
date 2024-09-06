@@ -1,0 +1,17 @@
+[
+  {
+    "to": "a",
+    "from": "admin",
+    "message": "Hello, how can I help you?"
+  },
+  {
+    "to": "admin",
+    "from": "b",
+    "message": "Can you provide more details on the issue?"
+  },
+  {
+    "to": "a",
+    "from": "admin",
+    "message": "I need assistance with my order."
+  }
+]

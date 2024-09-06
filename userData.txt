@@ -1,0 +1,57 @@
+[
+  {
+    "_id": 1,
+    "username": "a",
+    "password": "111",
+    "messages": [
+      [0, "What is the status of my order?"],  
+      [1, "Your order has been shipped."],     
+      [0, "When will it arrive?"],             
+      [1, "It will arrive tomorrow."]          
+    ]
+    
+  },
+  {
+    "_id": 2,
+    "username": "b",
+    "password": "222",
+    "messages": [
+      [0, "Can I cancel my order?"],           
+      [1, "Yes, you can cancel it within 24 hours."], 
+      [0, "Okay, please cancel it."],          
+      [1, "Your order has been canceled."]     
+    ]
+  },
+  {
+    "_id": 3,
+    "username": "c",
+    "password": "333",
+    "messages": [
+      [0, "Do you have any discount on electronics?"], 
+      [1, "Yes, we have a 10% discount this week."]    
+    ]
+  },
+  {
+    "_id": 4,
+    "username": "d",
+    "password": "444",
+    "messages": [
+      [0, "Can I change my shipping address?"],        
+      [1, "Yes, please provide the new address."],     
+      [0, "Here is the new address."],                 
+      [1, "Address updated successfully."]             
+    ]
+  },
+  {
+    "_id": 5,
+    "username": "e",
+    "password": "555",
+    "messages": [
+      [0, "What are the delivery charges?"],           
+      [1, "Delivery is free for orders above $50."],   
+      [0, "Great, thanks!"],                           
+      [1, "You're welcome!"]                           
+    ]
+  }
+  
+]
